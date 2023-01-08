@@ -4,7 +4,7 @@
 Ce script bash vous permet de redémarrer à distance votre Livebox 5 depuis un périphérique de votre réseau local.
 La seule dépendance est `curl`.
 
-Testé sur Livebox 5 firmware 4.34.0
+Testé et fonctionnel sur Livebox 5 firmware versions `4.34.0` à `4.66.0`.
 
 ## Utilisation
 
